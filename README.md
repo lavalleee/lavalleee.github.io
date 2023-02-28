@@ -10,6 +10,7 @@
   <li>Standard Networking</li>
   <li>Basic Pentesting</li>
 </ul>
+
 ## Interests
 <ul>
   <li>Automotive(VWAG Specifically)</li>
@@ -19,6 +20,7 @@
   <li>Photography</li>
   <li>Playing with my dogs</li>
 </ul>
+
 ## Availability
 <ul>
   <li>Mon-Fri: <strong>Usually</strong> between <strong>8AM-11PM EST</strong></li>
