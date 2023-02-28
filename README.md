@@ -29,7 +29,7 @@
 
 ## Preferred Methods of Contact
 <ul>
-  <li>E-Mail:<strong>mlavalleebusiness@gmail.com</strong></li>
-  <li>Discord:<strong>lavallee#8102</strong></li>
+  <li>E-Mail: <strong>mlavalleebusiness@gmail.com</strong></li>
+  <li>Discord: <strong>lavallee#8102</strong></li>
 </ul>
 
