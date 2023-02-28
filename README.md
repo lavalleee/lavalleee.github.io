@@ -4,21 +4,25 @@
 **Hi, I'm Michael. I'm an Information Security Major constantly looking to learn new skills!**
 
 ## Skills and Specialties
-**Python**
-**Computer Assembly**
-**Standard Networking**
-
+<ul>
+  <li>Python</li>
+  <li>Computer Assembly</li>
+  <li>Standard Networking</li>
+  <li>Basic Pentesting</li>
+</ul>
 ## Interests
-**Automotive(VWAG Specifically)**
-**Music Production/Engineering**
-**Video Editing**
-**Programming**
-**Photography**
-**Playing with my dogs**
-
+<ul>
+  <li>Automotive(VWAG Specifically)</li>
+  <li>Music Production/Engineering</li>
+  <li>Video Editing</li>
+  <li>Programming</li>
+  <li>Photography</li>
+  <li>Playing with my dogs</li>
+</ul>
 ## Availability
-**I'm usually around at all times via <strong>mlavallee@techsquare.com</strong>**
-**Weekends after 3PM EST**
- 
+<ul>
+  <li>I'm usually around at all times via <strong>mlavallee@techsquare.com</strong></li>
+  <li>Weekends after 3PM EST</li>
+</ul> 
 
 
