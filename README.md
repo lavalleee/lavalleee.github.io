@@ -21,8 +21,13 @@
 </ul>
 ## Availability
 <ul>
-  <li>I'm usually around at all times via <strong>mlavallee@techsquare.com</strong></li>
-  <li>Weekends after 3PM EST</li>
+  <li>Mon-Fri: <strong>Usually</strong> between <strong>8AM-11PM EST</strong></li>
+  <li>Sat-Sun: <strong>Usually</strong> between <strong>3PM-8:30PM EST</strong></li>
 </ul> 
 
+## Preferred Methods of Contact
+<ul>
+  <li>E-Mail:<strong>mlavalleebusiness@gmail.com</strong></li>
+  <li>Discord:<strong>lavallee#8102</strong></li>
+</ul>
 
